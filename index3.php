@@ -58,9 +58,9 @@ while ($pas < 100){
 }
 
 //exercice8
-$pas=12;
+$pas=200;
 while ($pas > 0){
     echo "Enfin!!!";
-    $pas--;
+    $pas-=12;
 }
 ?>
